@@ -1,1 +1,6 @@
 hello world.
+
+
+tambah baris1
+tambah baris2
+tambah baris3
