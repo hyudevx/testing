@@ -14,4 +14,4 @@ ping -c 2 $2 | head -n 3
 
 echo ""
 
-open -n -a "Brave Browser" --args -incognito "--new-window" http://$2
+open -n -a "Google Chrome" --args -incognito "--new-window" http://$2
